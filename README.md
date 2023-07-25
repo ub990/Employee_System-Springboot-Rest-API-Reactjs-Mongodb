@@ -1,5 +1,5 @@
 # Employee_System-Springboot-Rest-API-Reactjs-Mongodb
-
+Employee CRUD system using Springboot Rest Api, mongodb and Reactjs. A CRUD system using Springboot, React and mongodb to display an application that suplies control for a employee operations.
 
 # To Run SpringBoot_Api:-
 mvn clean install
