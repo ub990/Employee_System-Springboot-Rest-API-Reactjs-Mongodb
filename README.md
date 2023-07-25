@@ -1,7 +1,7 @@
 # Employee_System-Springboot-Rest-API-Reactjs-Mongodb
 
 
-# To Run SpringBoot_Code:-
+# To Run SpringBoot_Api:-
 mvn clean install
 
 mvn spring-boot:run
